@@ -1,2 +1,2 @@
 # Hadoop_movie-Review
-Movie Review using Hadoop 
+MapReduce is a programming paradigm that enables massive scalability across hundreds or thousands of servers in a Hadoop cluster.Movie Review of every movie is analysed using this concept and output is obtained. 
